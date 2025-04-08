@@ -1,0 +1,1 @@
+This is the content in my text file I am hoping it creates a merge conflict
