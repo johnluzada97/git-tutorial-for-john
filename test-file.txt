@@ -1,1 +1,1 @@
-This is the content in my text file I am hong it creates a merge conflict
+This is the content in my text file I am hofgng it creates a merge conflict
