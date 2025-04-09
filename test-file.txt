@@ -1,3 +1,4 @@
 This is the content in my text file I am hoping it creates a merge conflict
 
 This would work right
+This is the content in my text file I am hofgng it creates a merge conflict
